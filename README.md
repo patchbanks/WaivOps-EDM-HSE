@@ -32,7 +32,7 @@ See examples folder to preview mp3 demos.
 
 This dataset is developed by WaivOps, a crowdsourced music project managed by sound label company Patchbanks. All recordings have been compiled by verified sources for copyright clearance.
 
-The EDM-TR9 dataset is licensed under Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+The EDM-HSE Dataset is licensed under Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 ## Download
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
