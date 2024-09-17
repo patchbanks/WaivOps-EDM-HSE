@@ -4,13 +4,13 @@
 
 ## EDM-HSE Dataset
 
-EDM-HSE is an open audio dataset consisting of drum recordings in the style of modern house music. It includes 8,000 audio loops recorded in uncompressed stereo WAV format, created using custom audio samples and a MIDI drum dataset. The dataset also comes with paired JSON files that contain note numbers and tempo data, intended for supervised training of generative AI audio models.
+EDM-HSE is an open audio dataset containing a collection of code-generated drum recordings in the style of modern electronic house music. It includes 8,000 audio loops recorded in uncompressed stereo WAV format, created using custom audio samples and a MIDI drum dataset. The dataset also comes with paired JSON files containing MIDI note numbers (pitch) and tempo data, intended for supervised training of generative AI audio models.
 
 ## Overview
 
-The EDM-HSE Dataset was developed using an algorithmic framework designed to capture probable drum notations commonly used by music producers. For supervised training with labeled data, a variational mixing method is applied to the drum compositions. This method systematically includes or excludes notes within the audio files, which helps the model recognize patterns and relationships between drum sounds, thereby enhancing its generalization capabilities.
+The EDM-HSE Dataset was developed using an algorithmic framework to generate probable drum notations commonly played by EDM music producers. For supervised training with labeled data, a variational mixing technique was applied to the rendered audio files. This method systematically includes or excludes drum notes, assisting the model in recognizing patterns and relationships between drum instruments, thereby enhancing its generalization capabilities.
 
-The primary objective of this dataset is to provide accessible content for machine learning applications in music and audio research. Potential use cases include AI music generation, drum synthesis, feature extraction, tempo detection, audio classification, rhythm analysis, music information retrieval (MIR), sound design and signal processing.
+The primary purpose of this dataset is to provide accessible content for machine learning applications in music and audio. Potential use cases include generative music, feature extraction, tempo detection, audio classification, rhythm analysis, drum synthesis, music information retrieval (MIR), sound design and signal processing.
 
 **Specifications**
 
