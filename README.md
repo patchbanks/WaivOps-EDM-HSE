@@ -37,11 +37,14 @@ The EDM-TR9 dataset is licensed under Creative Commons Attribution 4.0 Internati
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
-Direct WAV Download (7.6GB) [edm_hse_id_001-004_wav.tar.gz](https://zenodo.org/records/10278066/files/edm_tr9_drm_id_001.tar.gz?download=1)
+Direct WAV Download (7.6GB) [edm_hse_id_001-004_wav.tar.gz](https://zenodo.org/records/13769544/files/edm_hse_id_001-004_json.tar.gz?download=1)
 
-Direct JSON Download (245KB) [edm_hse_id_001-004_json.tar.gz](https://zenodo.org/records/10278066/files/edm_tr9_drm_id_001.tar.gz?download=1)
+Direct JSON Download (245KB) [edm_hse_id_001-004_json.tar.gz](https://zenodo.org/records/13769544/files/edm_hse_id_001-004_wav.tar.gz?download=1)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10278066.svg)](https://doi.org/10.5281/zenodo.10278066)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13769544.svg)](https://doi.org/10.5281/zenodo.13769544)
+
+
 ## File Name Reference
 
 | **Label**             | **Reference**                                                  |
@@ -56,12 +59,12 @@ Direct JSON Download (245KB) [edm_hse_id_001-004_json.tar.gz](https://zenodo.org
 
 If you use this dataset for a research or development project, please cite the following references:
 ```bash
-@misc{EDM-TR9,
+@misc{EDM-HSE,
 author = {WaivOps},
 title = {WaivOps EDM-HSE: Open Audio Resources for Machine Learning in Music},
 year = {2024},
 doi = {10.5281/zenodo.13769544},
-url = {https://doi.org/10.5281/zenodo.10278066},
+url = {https://doi.org/10.5281/zenodo.13769544},
 }
 ```
 ## Additional Info
