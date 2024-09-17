@@ -1,0 +1,29 @@
+{
+    "key_map_drum_note_labels": [
+        {"note": 27, "label": "One-Shot SFX"},
+        {"note": 31, "label": "Stick"},
+        {"note": 36, "label": "Kick"},
+        {"note": 37, "label": "Rimshot"},
+        {"note": 38, "label": "Snare Big"},
+        {"note": 39, "label": "Clap"},
+        {"note": 40, "label": "Snare Small"},
+        {"note": 41, "label": "Simple Low Tom"},
+        {"note": 42, "label": "Closed Hat"},
+        {"note": 43, "label": "Simple High Tom"},
+        {"note": 44, "label": "Accent Hat"},
+        {"note": 45, "label": "Low Tom"},
+        {"note": 46, "label": "Open Hat"},
+        {"note": 48, "label": "Mid Tom"},
+        {"note": 50, "label": "High Tom"},
+        {"note": 54, "label": "Tambourine"},
+        {"note": 57, "label": "Reversed Rise"},
+        {"note": 62, "label": "Mute Drumsynth Conga"},
+        {"note": 63, "label": "High Drumsynth Conga"},
+        {"note": 64, "label": "Low Drumsynth Conga"},
+        {"note": 69, "label": "Cabasa"},
+        {"note": 70, "label": "Maracas"},
+        {"note": 75, "label": "Claves"},
+        {"note": 76, "label": "High Wood Block"},
+        {"note": 77, "label": "Low Wood Block"}
+    ]
+}
