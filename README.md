@@ -37,9 +37,10 @@ The EDM-HSE Dataset is licensed under Creative Commons Attribution 4.0 Internati
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
-Direct WAV Download (7.6GB) [edm_hse_id_001-004_wav.tar.gz](https://zenodo.org/records/13769544/files/edm_hse_id_001-004_json.tar.gz?download=1)
 
-Direct JSON Download (245KB) [edm_hse_id_001-004_json.tar.gz](https://zenodo.org/records/13769544/files/edm_hse_id_001-004_wav.tar.gz?download=1)
+Direct WAV Download (7.6GB) [edm_hse_id_001-004_wav.tar.gz](https://zenodo.org/records/13769544/files/edm_hse_id_001-004_wav.tar.gz?download=1)
+
+Direct JSON Download (245KB) [edm_hse_id_001-004_json.tar.gz](https://zenodo.org/records/13769544/files/edm_hse_id_001-004_json.tar.gz?download=1)
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13769544.svg)](https://doi.org/10.5281/zenodo.13769544)
