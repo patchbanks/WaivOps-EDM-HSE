@@ -15,7 +15,7 @@ The primary purpose of this dataset is to provide accessible content for machine
 **Specifications**
 
 - 8,000 audio loops (approximately 17 hours)
-- 24-bit WAV format
+- 16-bit WAV format
 - Tempo range: 120–130 BPM
 - Paired label data (WAV + JSON)
 - Variational drum patterns
